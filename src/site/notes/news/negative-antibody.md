@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/news/negative-antibody/"}
 ---
 
-
 # Nat. Mach. Intell. | 负训练数据在增强抗体结合预测稳健性中的重要性
 
 Ta, Wesley, and Jonathan M. Stokes. “The Importance of Negative Training Data for Robust Antibody Binding Prediction.” *Nature Machine Intelligence* 7, no. 8 (2025): 1192–94. https://doi.org/10.1038/s42256-025-01080-0.

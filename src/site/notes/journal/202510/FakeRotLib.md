@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/journal/202510/FakeRotLib/"}
 ---
 
-
 # JCIM 2025 | FakeRotLib: 在Rosetta中实现非天然氨基酸快速参数化的方法
 
 ![](https://cdn.molastra.com/weixin/2025/10/11/4da76304ae2abe001a7844a726cd6ab6.jpg)
