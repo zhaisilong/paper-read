@@ -4,4 +4,4 @@
 
 # 论文阅读
 
-[[Aging \| aging-cgas]]
+[[aging-cgas \| Aging]]
