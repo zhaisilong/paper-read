@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/README/"}
 ---
 
+
 ## 2025
 
 ## Nature
@@ -11,8 +12,6 @@
 ### Science
 
 - [[journal/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
-- [[journal/202510/CycleGPT\|CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计]]
-
 ### Nature Machine Intelligence
 
 - [[journal/202508/TopoDiff\|TopoDiff: 基于全局几何感知潜在编码的扩散式蛋白质主链生成改进方法]]
@@ -33,6 +32,10 @@
 
 - [[journal/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
 
+### Communications Chemistry
+
+- [[journal/202510/CycleGPT\|CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计]]
+
 ### JCIM
 
 - [[journal/202510/FakeRotLib\|FakeRotLib: 在Rosetta中实现非天然氨基酸快速参数化的方法]]
@@ -49,8 +52,6 @@
 ### Nature Communications
 
 - [[journal/202509/SO3_krates\|SO3_KRATES: 利用欧几里得Transformer实现快速稳定的机器学习力场]]
-
-### Communications Chemistry
 
 ### JCIM
 
