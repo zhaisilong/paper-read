@@ -3,11 +3,6 @@
 ---
 
 
-> 本项目用于跟进最新 AIDD 相关前沿技术,欢迎学术交流
-
-- https://molastra.com
-- molastra@outlook.com
-
 ## 论文阅读
 
 - [[journal/README\|期刊论文]]
@@ -26,3 +21,8 @@
 ## 网站搭建教程
 
 - [Obsidian Digital Garden](https://github.com/oleeskild/Obsidian-Digital-Garden?tab=readme-ov-file)
+
+> 本项目用于跟进最新 AIDD 相关前沿技术,欢迎学术交流
+
+- https://molastra.com
+- molastra@outlook.com

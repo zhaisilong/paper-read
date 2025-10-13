@@ -8,12 +8,15 @@
 ### Science
 
 - [[journal/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
-
 - [[journal/202510/CycleGPT\|CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计]]
 
 ### PNAS
 
 - [[journal/202510/GeoEvoBuilder\|GeoEvoBuilder: 一种用于高效功能性与热稳定性蛋白设计的深度学习框架]]
+
+### Advanced Science
+
+- [[journal/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
 
 ### JCIM
 
@@ -31,9 +34,9 @@
 
 - [[journal/202509/ACEGEN\|ACEGEN: 用于药物发现的生成式化学智能体强化学习]]
 
-## 2023
+## 2018
 
-## 2022
+### Science
 
-## 2021
+- [[journal/202508/AlphaZero\|AlphaZero: 一种通过自我对弈精通国际象棋、日本将棋和围棋的通用强化学习算法]]
 

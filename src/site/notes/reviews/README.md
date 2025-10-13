@@ -28,3 +28,9 @@
 ### Acc. Chem. Res.
 
 - [[reviews/202509/acc-docking\|利用深度学习推进配体对接: 虚拟筛选中的挑战与前景]]
+
+## 2022
+
+### BioDesign Research
+
+- [[reviews/202509/BDR-pep-target\|用于结合蛋白靶标的蛋白片段与肽的设计]]
