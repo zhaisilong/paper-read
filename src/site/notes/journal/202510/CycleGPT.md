@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/202510/CycleGPT/"}
+{"dg-publish":true,"permalink":"/journal/202510/CycleGPT/","tags":["GPT","Macrocyclic","JAK2","Transfer-learning"]}
 ---
 
 # Commun. Chem. 2025 | CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计
