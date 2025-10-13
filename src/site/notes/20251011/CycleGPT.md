@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20251011/cycle-gpt/"}
+{"dg-publish":true,"permalink":"/20251011/CycleGPT/"}
 ---
 
 # Commun. Chem. | CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计

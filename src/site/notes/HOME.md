@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/HOME/","tags":["gardenEntry"]}
 ---
 
 # 论文阅读
