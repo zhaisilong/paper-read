@@ -9,8 +9,6 @@
 
 - [[journal/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
 
-### Communications Chemistry
-
 - [[journal/202510/CycleGPT\|CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计]]
 
 ### PNAS
@@ -23,7 +21,13 @@
 
 ## 2024
 
-### JCMI
+### Nature Machine Intelligence
+
+- [[journal/202508/ActFound\|ActFound: 利用成对元学习的生物活性基础模型]]
+- 
+### Communications Chemistry
+
+### JCIM
 
 - [[journal/202509/ACEGEN\|ACEGEN: 用于药物发现的生成式化学智能体强化学习]]
 

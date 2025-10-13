@@ -3,13 +3,16 @@
 ---
 
 
-> 本项目用于跟进最新 AIDD 相关前沿技术,欢迎学术交流. molastra@outlook.com
+> 本项目用于跟进最新 AIDD 相关前沿技术,欢迎学术交流
+
+- https://molastra.com
+- molastra@outlook.com
 
 ## 论文阅读
 
 - [[journal/README\|期刊论文]]
-- [[conference/README\|会议论文]]
 - [[reviews/README\|综述]]
+- [[conference/README\|会议论文]]
 - [[news/README\|新闻]]
 - [[math/README\|数学]]
 - [[survey/README\|调研]]

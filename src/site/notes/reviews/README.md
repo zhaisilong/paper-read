@@ -8,9 +8,16 @@
 ### Acc. Chem. Res.
 
 - [[reviews/202509/acc-askcos\|ASKCOS：开源的数据驱动合成规划]]
+- [[reviews/202509/amp-accounts\|人工智能驱动的抗菌肽发现：挖掘与生成]]
+
 ### J. Med. Chem.
 
 - [[reviews/202509/ADC-pep-link\|抗体−药物偶联物中肽连接子的最新进展]]
+- [[reviews/202509/jmc-pdc\|肽–药物偶联物治疗效能增强的最新进展]]
+
+### Nat. Chem. Biol.
+
+- [[reviews/202509/nvb-ADC\|利用计算技术推动抗体–药物偶联物的开发]]
 
 ## 2024
 
