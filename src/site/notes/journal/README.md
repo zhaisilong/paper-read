@@ -8,13 +8,16 @@
 ## Nature
 
 - [[journal/202509/TabPFN\|TabPFN: 利用表格基础模型在小数据上的精确预测]]
+- [[journal/202508/FlowER\|FlowER: 电子流匹配用于生成式反应机制预测]]
 
 ### Science
 
 - [[journal/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
+
 ### Nature Machine Intelligence
 
 - [[journal/202508/TopoDiff\|TopoDiff: 基于全局几何感知潜在编码的扩散式蛋白质主链生成改进方法]]
+- [[journal/202509/DrugGEN\|DrugGEN: 基于graph-transformer生成对抗网络的靶点特异性药物候选分子从头设计]]
 
 ### JACS
 

@@ -137,7 +137,7 @@ $$\Theta_{ema,t} = decay \cdot \Theta_{ema,t-1} + (1 - decay) \cdot \Theta_{curr
 
 ### 3.2 APEX模型
 
-采用了 **APEX**，一种针对特定细菌菌株的抗菌活性预测器，用于对生成的肽序列进行排序和筛选（https://gitlab.com/machine-biologygroup-public/apex-pathogen）。由于APEX能够预测针对11种病原菌株的抗菌活性，因此在该研究中以其预测的平均最小抑菌浓度(MIC)对AMP-Diffusion生成的肽进行排序。未被多样性和相似性筛选标准（见计算过滤部分）剔除的高分肽被选中用于合成和实验验证。
+采用了 **APEX**，一种针对特定细菌菌株的抗菌活性预测器，用于对生成的肽序列进行排序和筛选 https://gitlab.com/machine-biologygroup-public/apex-pathogen 。由于APEX能够预测针对11种病原菌株的抗菌活性，因此在该研究中以其预测的平均最小抑菌浓度(MIC)对AMP-Diffusion生成的肽进行排序。未被多样性和相似性筛选标准（见计算过滤部分）剔除的高分肽被选中用于合成和实验验证。
 
 ### 3.3 计算过滤
 
