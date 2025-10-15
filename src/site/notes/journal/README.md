@@ -18,6 +18,7 @@
 
 - [[journal/202508/TopoDiff\|TopoDiff: 基于全局几何感知潜在编码的扩散式蛋白质主链生成改进方法]]
 - [[journal/202509/DrugGEN\|DrugGEN: 基于graph-transformer生成对抗网络的靶点特异性药物候选分子从头设计]]
+- [[journal/202508/RXNGraphormer\|RXNGraphormer: 用于跨任务的反应性能预测与合成路径规划的统一预训练深度学习框架]]
 
 ### JACS
 
@@ -43,6 +44,11 @@
 
 - [[journal/202510/FakeRotLib\|FakeRotLib: 在Rosetta中实现非天然氨基酸快速参数化的方法]]
 
+### arXiv
+
+- [[journal/202509/simplefold\|SimpleFold: 蛋白折叠，大道至简]]
+- [[journal/202508/boltz-1\|Boltz-1: 通用生物分子相互作用建模]]
+
 ## 2024
 
 ### Science
@@ -59,6 +65,10 @@
 ### JCIM
 
 - [[journal/202509/ACEGEN\|ACEGEN: 用于药物发现的生成式化学智能体强化学习]]
+
+### arXiv
+
+- [[journal/202508/boltz-1\|Boltz-1: 通用生物分子相互作用建模]]
 
 ## 2018
 

@@ -24,5 +24,6 @@
 
 > 本项目用于跟进最新 AIDD 相关前沿技术,欢迎学术交流
 
+- https://github.com/zhaisilong/paper-read
 - https://molastra.com
 - molastra@outlook.com
