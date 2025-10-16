@@ -27,7 +27,7 @@
 
 ### Nature Communications
 
-- [[journal/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的**抗菌肽从头设计(de novo design)** 方法]]
+- [[journal/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的抗菌肽从头设计(de novo design)方法]]
 
 ### PNAS
 
@@ -75,6 +75,10 @@
 ### JCIM
 
 - [[journal/202509/ACEGEN\|ACEGEN: 用于药物发现的生成式化学智能体强化学习]]
+
+### ACS Chemical Neuroscience
+
+- [[journal/202510/Opioid-acs-cn\|机器学习分类人源μ-阿片受体配体的内在活性]]
 
 ### arXiv
 
