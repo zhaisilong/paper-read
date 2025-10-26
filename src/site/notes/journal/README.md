@@ -19,6 +19,7 @@
 - [[journal/202508/TopoDiff\|TopoDiff: 基于全局几何感知潜在编码的扩散式蛋白质主链生成改进方法]]
 - [[journal/202509/DrugGEN\|DrugGEN: 基于graph-transformer生成对抗网络的靶点特异性药物候选分子从头设计]]
 - [[journal/202508/RXNGraphormer\|RXNGraphormer: 用于跨任务的反应性能预测与合成路径规划的统一预训练深度学习框架]]
+- [[journal/202510/GraphPep\|GraphPep: 一种基于相互作用图学习的蛋白质–肽复合物评分框架]]
 
 ### JACS
 
@@ -32,6 +33,8 @@
 ### PNAS
 
 - [[journal/202510/GeoEvoBuilder\|GeoEvoBuilder: 一种用于高效功能性与热稳定性蛋白设计的深度学习框架]]
+- [[journal/202510/CORDIAL\|一种可泛化的基于结构的蛋白–配体亲和力排序深度学习框架]]
+- [[journal/202509/pnas-cft-baker\|从头设计高效抑制梭菌家族毒素的分子]]
 
 ### Cell Biomaterials
 
@@ -47,6 +50,10 @@
 
 - [[journal/202510/cc-tl-organic-photo\|从定制化虚拟分子数据库到真实有机光敏剂的迁移学习：催化活性预测研究]]
 - [[journal/202510/CycleGPT\|CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计]]
+
+### Patterns
+
+- [[journal/202510/LigUnity\|通过学习共享的口袋-配体空间实现分层亲和力景观导航]]
 
 ### JCIM
 
@@ -68,6 +75,7 @@
 ### Nature Machine Intelligence
 
 - [[journal/202508/ActFound\|ActFound: 利用成对元学习的生物活性基础模型]]
+
 ### Nature Communications
 
 - [[journal/202509/SO3_krates\|SO3_KRATES: 利用欧几里得Transformer实现快速稳定的机器学习力场]]
