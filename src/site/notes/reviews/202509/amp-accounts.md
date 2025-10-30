@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/reviews/202509/amp-accounts/"}
 ---
 
+
 # Acc. Chem. Res. 2025 | 人工智能驱动的抗菌肽发现：挖掘与生成
 
 ![](https://cdn.molastra.com/weixin/2025/09/2e9a23e9c21ea34402b51c114b9e9188.png)

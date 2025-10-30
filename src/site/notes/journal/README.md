@@ -20,11 +20,16 @@
 - [[journal/202509/DrugGEN\|DrugGEN: 基于graph-transformer生成对抗网络的靶点特异性药物候选分子从头设计]]
 - [[journal/202508/RXNGraphormer\|RXNGraphormer: 用于跨任务的反应性能预测与合成路径规划的统一预训练深度学习框架]]
 - [[journal/202510/GraphPep\|GraphPep: 一种基于相互作用图学习的蛋白质–肽复合物评分框架]]
+- [[journal/202510/ITsFlexible\|ITsFlexible: 预测抗体与T细胞受体互补决定区的构象柔性]]
 
 ### JACS
 
 - [[journal/202509/so3lr\|SO3LR: 利用预训练神经网络与通用成对力场的分子模拟]]
 - [[journal/202510/jacs-kras-cp\|口服可利用肽类靶向细胞内蛋白的开发：从初始化合物到临床级KRAS抑制剂]]
+
+### Nature Biotechnology
+
+- [[journal/202510/GNEprop\|GNEprop: 基于深度学习的抗菌化合物虚拟筛选]]
 
 ### Nature Communications
 
@@ -54,6 +59,10 @@
 ### Patterns
 
 - [[journal/202510/LigUnity\|通过学习共享的口袋-配体空间实现分层亲和力景观导航]]
+
+### Journal of Medicinal Chemistry
+
+- [[journal/202510/jmc-phage-cryoem\|利用噬菌体展示与冷冻电镜技术高通量鉴定并表征结合LptDE的双环肽]]
 
 ### JCIM
 
