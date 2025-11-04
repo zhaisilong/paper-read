@@ -5,7 +5,7 @@
 
 ## 2025
 
-## Nature
+### Nature
 
 - [[journal/202509/TabPFN\|TabPFN: 利用表格基础模型在小数据上的精确预测]]
 - [[journal/202508/FlowER\|FlowER: 电子流匹配用于生成式反应机制预测]]
@@ -35,7 +35,6 @@
 ### Nature Communications
 
 - [[journal/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的抗菌肽从头设计(de novo design)方法]]
-- [[journal/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
 
 ### Science Advances
 
@@ -106,6 +105,12 @@
 ### arXiv
 
 - [[journal/202508/boltz-1\|Boltz-1: 通用生物分子相互作用建模]]
+
+## 2023
+
+### Nature Communications
+
+- [[journal/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
 
 ## 2018
 
