@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/202510/aging-cgas/"}
 ---
 
+
 # Science 2025 | 裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老
 
 ![](https://cdn.molastra.com/weixin/2025/10/11/3bec762c7f4396eae865818da18151f5.jpg)

@@ -13,6 +13,7 @@
 ### Science
 
 - [[journal/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
+- [[journal/202511/CLEAN\|CLEAN: 利用对比学习的酶功能预测]]
 
 ### Nature Machine Intelligence
 
@@ -34,6 +35,11 @@
 ### Nature Communications
 
 - [[journal/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的抗菌肽从头设计(de novo design)方法]]
+- [[journal/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
+
+### Science Advances
+
+- [[journal/202511/AMP-Designer\|AMP-Designer: 基于大型语言模型（LLM）基础模型发现具有显著抗菌活性的抗菌肽]]
 
 ### PNAS
 
@@ -48,8 +54,8 @@
 ### Advanced Science
 
 - [[journal/202510/PROTAC-STAN\|PROTAC-STAN: 可解释的基于结构信息的深度三元注意力框架用于PROTAC降解预测]]
-
 - [[journal/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
+- [[journal/202510/geminimol\|GeminiMol: 构象空间表征提升了基于人工智能的配体驱动药物发现中的通用分子表示能力]]
 
 ### Communications Chemistry
 
