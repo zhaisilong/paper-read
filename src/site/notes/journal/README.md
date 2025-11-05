@@ -13,7 +13,6 @@
 ### Science
 
 - [[journal/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
-- [[journal/202511/CLEAN\|CLEAN: 利用对比学习的酶功能预测]]
 
 ### Nature Machine Intelligence
 
@@ -35,6 +34,10 @@
 ### Nature Communications
 
 - [[journal/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的抗菌肽从头设计(de novo design)方法]]
+
+### Nature Computational Science
+
+- [[journal/202508/PhoreGen\|PhoreGen: 面向药效团的三维分子生成助力高效特征定制型药物发现]]
 
 ### Science Advances
 
@@ -102,11 +105,19 @@
 
 - [[journal/202510/Opioid-acs-cn\|机器学习分类人源μ-阿片受体配体的内在活性]]
 
+### ICML
+
+- [[journal/202508/plinder\|PLINDER: 蛋白质配体相互作用数据和评估集]]
+
 ### arXiv
 
 - [[journal/202508/boltz-1\|Boltz-1: 通用生物分子相互作用建模]]
 
 ## 2023
+
+### Science
+
+- [[journal/202511/CLEAN\|CLEAN: 利用对比学习的酶功能预测]]
 
 ### Nature Communications
 
