@@ -67,6 +67,10 @@
 - [[journal/2025/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
 - [[journal/2025/202510/geminimol\|GeminiMol: 构象空间表征提升了基于人工智能的配体驱动药物发现中的通用分子表示能力]]
 
+### Acta Pharmaceutica Sinica B
+
+- [[journal/2025/202511/PhenoModel\|PhenoModel: 一种基于多模态表征的表型药物设计基础模型]]
+
 ### Communications Chemistry
 
 - [[journal/2025/202510/cc-tl-organic-photo\|从定制化虚拟分子数据库到真实有机光敏剂的迁移学习：催化活性预测研究]]
@@ -127,6 +131,13 @@
 ### Nature Communications
 
 - [[journal/2025/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
+
+## 2022
+
+### Nature Machine Intelligence
+
+- [[journal/2025/202511/MolCLR\|MolCLR: 基于分子对比学习的图神经网络模型]]
+- [[journal/2025/202511/MoLFormer\|MoLFormer: 大规模化学语言表征能够捕捉分子结构与性质]]
 
 ## 2018
 
