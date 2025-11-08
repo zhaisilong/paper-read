@@ -14,3 +14,10 @@
 ### ICML
 
 - [[conference/2024/plinder\|PLINDER: 蛋白质配体相互作用数据和评估集]]
+
+## 2023
+
+### NeurIPS 
+
+- [[conference/2023/LinkerNet\|LinkerNet：基于三维等变扩散的片段构象与连接体协同设计]]
+
