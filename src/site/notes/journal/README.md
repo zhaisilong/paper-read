@@ -21,6 +21,7 @@
 - [[journal/2025/202508/RXNGraphormer\|RXNGraphormer: 用于跨任务的反应性能预测与合成路径规划的统一预训练深度学习框架]]
 - [[journal/2025/202510/GraphPep\|GraphPep: 一种基于相互作用图学习的蛋白质–肽复合物评分框架]]
 - [[journal/2025/202510/ITsFlexible\|ITsFlexible: 预测抗体与T细胞受体互补决定区的构象柔性]]
+- [[journal/2025/202511/MSGo\|MSGo: 未知化学物揭示中的伪数据分子结构生成器]]
 
 ### JACS
 
@@ -42,10 +43,12 @@
 ### Nature Communications
 
 - [[journal/2025/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的抗菌肽从头设计(de novo design)方法]]
+- [[journal/2025/202511/DILI\|DILI: 用于药物性肝损伤预测的大规模人类毒理基因组学资源]]
 
 ### Nature Computational Science
 
 - [[journal/2025/202508/PhoreGen\|PhoreGen: 面向药效团的三维分子生成助力高效特征定制型药物发现]]
+- [[journal/2025/202511/SynGFN\|SynGFN：利用生成式基于流的分子发现方法跨化学空间学习]]
 
 ### Science Advances
 
@@ -83,6 +86,7 @@
 ### Journal of Medicinal Chemistry
 
 - [[journal/2025/202510/jmc-phage-cryoem\|利用噬菌体展示与冷冻电镜技术高通量鉴定并表征结合LptDE的双环肽]]
+- [[journal/2025/202511/cheminfo\|基于结构的三维小分子药物生成：我们到哪一步了？]]
 
 ### JCIM
 
@@ -101,6 +105,10 @@
 ### Science
 
 - [[journal/2025/202509/TNFR1-baker\|靶点条件扩散生成高效TNFR超家族拮抗剂与激动剂]]
+
+### Nature Methods
+
+- [[journal/2025/202511/cellrank2\|CellRank 2: 多视图单细胞数据中的统一细胞命运映射方法]]
 
 ### Nature Machine Intelligence
 
@@ -134,10 +142,15 @@
 
 ## 2022
 
+### Nature Methods
+
+- [[journal/2025/202511/cellrank\|CellRank：用于定向单细胞命运映射的方法]]
+
 ### Nature Machine Intelligence
 
 - [[journal/2025/202511/MolCLR\|MolCLR: 基于分子对比学习的图神经网络模型]]
 - [[journal/2025/202511/MoLFormer\|MoLFormer: 大规模化学语言表征能够捕捉分子结构与性质]]
+- [[journal/2025/202511/nmi_protac_screen\|通过深度学习与分子模拟加速理性PROTAC设计]]
 
 ## 2018
 

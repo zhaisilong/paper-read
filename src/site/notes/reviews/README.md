@@ -29,6 +29,12 @@
 
 - [[reviews/202509/acc-docking\|利用深度学习推进配体对接: 虚拟筛选中的挑战与前景]]
 
+## 2023
+
+### Biomedicine & Pharmacotherapy
+
+- [[reviews/202511/bp-sc\|深度学习在单细胞基因组学与转录组学数据分析中的应用]]
+
 ## 2022
 
 ### BioDesign Research
