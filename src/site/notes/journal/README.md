@@ -122,6 +122,10 @@
 
 - [[journal/2025/202509/ACEGEN\|ACEGEN: 用于药物发现的生成式化学智能体强化学习]]
 
+### Journal of Cheminformatics
+
+- [[journal/2025/202511/reinvent4\|Reinvent 4：现代AI驱动的分子生成设计]]
+
 ### ACS Chemical Neuroscience
 
 - [[journal/2025/202510/Opioid-acs-cn\|机器学习分类人源μ-阿片受体配体的内在活性]]
