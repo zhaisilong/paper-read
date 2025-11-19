@@ -136,6 +136,10 @@
 
 - [[journal/2025/202511/CLEAN\|CLEAN: 利用对比学习的酶功能预测]]
 
+### Nature Machine Intelligence
+
+- [[journal/2025/202511/nmi-smile-denovo-cl-rl\|基于SMILES的分子从头生成：课程式训练与深度强化学习的能力边界探索]]
+
 ### Nature Communications
 
 - [[journal/2025/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
