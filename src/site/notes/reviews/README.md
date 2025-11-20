@@ -21,6 +21,10 @@
 
 ## 2024
 
+### Signal Transduction and Targeted Therapy.
+
+- [[reviews/202511/sttt-gpcr-review\|G蛋白偶联受体(GPCRs):结构、机制与药物发现的最新进展]]
+
 ### WIREs Comput. Mol. Sci.
 
 - [[reviews/202508/diff\|扩散模型在蛋白质和对接中的应用]]

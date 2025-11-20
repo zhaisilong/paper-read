@@ -78,6 +78,7 @@
 
 - [[journal/2025/202510/cc-tl-organic-photo\|从定制化虚拟分子数据库到真实有机光敏剂的迁移学习：催化活性预测研究]]
 - [[journal/2025/202510/CycleGPT\|CycleGPT: 利用深度学习模型探索大环化合物化学空间以启发式药物设计]]
+- [[journal/2025/202511/AEV-PLIG\|AEV-PLIG：使用增强数据缩小机器学习评分函数与自由能微扰之间的差距]]
 
 ### Patterns
 
