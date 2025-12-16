@@ -10,6 +10,7 @@
 - [[journal/2025/202509/TabPFN\|TabPFN: 利用表格基础模型在小数据上的精确预测]]
 - [[journal/2025/202508/FlowER\|FlowER: 电子流匹配用于生成式反应机制预测]]
 - [[journal/2025/202508/bindcraft\|BindCraft: 一次性设计功能性蛋白质结合子]]
+- [[journal/2025/202512/metallohydrolases-baker\|金属水解酶的计算设计]]
 
 ### Science
 
@@ -23,6 +24,7 @@
 - [[journal/2025/202510/GraphPep\|GraphPep: 一种基于相互作用图学习的蛋白质–肽复合物评分框架]]
 - [[journal/2025/202510/ITsFlexible\|ITsFlexible: 预测抗体与T细胞受体互补决定区的构象柔性]]
 - [[journal/2025/202511/MSGo\|MSGo: 未知化学物揭示中的伪数据分子结构生成器]]
+- [[journal/2025/202512/GerNA-Bind\|GerNA-Bind: RNA–配体结合特异性解析]]
 
 ### JACS
 
@@ -41,6 +43,10 @@
 
 - [[journal/2025/202509/apex\|APEX: 深度学习揭示古菌蛋白组中的抗生素]]
 
+### ACS Cent. Sci.
+
+- [[journal/2025/202512/SynLlama\|SynLlama: 用大型语言模型生成可合成分子及其类似物]]
+
 ### Nature Communications
 
 - [[journal/2025/202510/DLFea4AMPGen\|DLFea4AMPGen：结合深度学习模型特征的抗菌肽从头设计(de novo design)方法]]
@@ -48,6 +54,7 @@
 - [[journal/2025/202511/DeepSCFold\|DeepSCFold: 基于序列衍生结构互补性的高精度蛋白质复合物结构建模]]
 - [[journal/2025/202512/insilicon-protac\|AI生成技术助力的双功能PKMYT1靶向PROTAC的发现]]
 - [[journal/2025/202512/MMCLKin\|MMCLKin: 通过对比学习提升激酶抑制剂活性与选择性预测]]
+- [[journal/2025/202512/TAPB\|TAPB: 一种干预式去偏框架，用于缓解药物-靶点相互作用预测中的靶点先验偏差]]
 
 ### Nature Computational Science
 
@@ -65,6 +72,7 @@
 - [[journal/2025/202510/CORDIAL\|一种可泛化的基于结构的蛋白–配体亲和力排序深度学习框架]]
 - [[journal/2025/202509/pnas-cft-baker\|从头设计高效抑制梭菌家族毒素的分子]]
 - [[journal/2025/202511/placer\|PLACER: 建模蛋白–小分子构象集合]]
+- [[journal/2025/202512/SiteAF3\|SiteAF3: 基于AlphaFold3的条件扩散实现结合位点特异性精准折叠]]
 
 ### Cell Biomaterials
 
@@ -102,6 +110,7 @@
 
 - [[journal/2025/202510/jmc-phage-cryoem\|利用噬菌体展示与冷冻电镜技术高通量鉴定并表征结合LptDE的双环肽]]
 - [[journal/2025/202511/cheminfo\|基于结构的三维小分子药物生成：我们到哪一步了？]]
+- [[journal/2025/202508/CYC_BUILDER\|CYC_BUILDER: 利用强化学习从头设计靶点特异性环肽结合剂]]
 
 ### JCIM
 
@@ -129,11 +138,16 @@
 
 - [[journal/2025/202508/ActFound\|ActFound: 利用成对元学习的生物活性基础模型]]
 - [[journal/2025/202509/pepflow\|PepFlow: 通过超网络调控扩散直接采样肽类能量景观的构象]]
+- [[journal/2025/202512/DiG\|DiG: 利用深度学习预测分子体系的平衡分布]]
 
 ### Nature Communications
 
 - [[journal/2025/202509/SO3_krates\|SO3_KRATES: 利用欧几里得Transformer实现快速稳定的机器学习力场]]
 - [[journal/2025/202509/openvs\|OpenVS: 人工智能加速的虚拟筛选平台用于药物发现]]
+
+### JACS Au
+
+- [[journal/2025/202512/protacs-cycpep\|基于结构的“首尾相连”大环PROTACs设计]]
 
 ### JCIM
 
@@ -164,6 +178,7 @@
 ### Nature Communications
 
 - [[journal/2025/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
+- [[journal/2025/202512/ViSNet\|ViSNet]]
 
 ## 2022
 
