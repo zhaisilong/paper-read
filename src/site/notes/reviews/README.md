@@ -5,6 +5,10 @@
 
 ## 2025
 
+### Nat. Rev. Chem.
+
+- [[reviews/202512/PROTAC_review_nrc\|从发现到临床的PROTAC连接子设计经验总结]]
+
 ### Acc. Chem. Res.
 
 - [[reviews/202509/acc-askcos\|ASKCOS：开源的数据驱动合成规划]]

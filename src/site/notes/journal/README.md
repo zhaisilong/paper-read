@@ -11,10 +11,12 @@
 - [[journal/2025/202508/FlowER\|FlowER: 电子流匹配用于生成式反应机制预测]]
 - [[journal/2025/202508/bindcraft\|BindCraft: 一次性设计功能性蛋白质结合子]]
 - [[journal/2025/202512/metallohydrolases-baker\|金属水解酶的计算设计]]
+- [[journal/2025/202512/μ-opioid\|结构快照解析μ-阿片受体中核苷酸释放的构象机制]]
 
 ### Science
 
 - [[journal/2025/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
+- [[journal/2025/202512/DrugReflector\|基于转录组学的主动学习框架用于识别疾病表型的调节因子]]
 
 ### Nature Machine Intelligence
 
@@ -55,12 +57,14 @@
 - [[journal/2025/202512/insilicon-protac\|AI生成技术助力的双功能PKMYT1靶向PROTAC的发现]]
 - [[journal/2025/202512/MMCLKin\|MMCLKin: 通过对比学习提升激酶抑制剂活性与选择性预测]]
 - [[journal/2025/202512/TAPB\|TAPB: 一种干预式去偏框架，用于缓解药物-靶点相互作用预测中的靶点先验偏差]]
+- [[journal/2025/202512/ChemEnzyRetroPlanner\|ChemEnzyRetroPlanner：用于自动化有机–酶催化混合合成规划的虚拟平台]]
 
 ### Nature Computational Science
 
 - [[journal/2025/202508/PhoreGen\|PhoreGen: 面向药效团的三维分子生成助力高效特征定制型药物发现]]
 - [[journal/2025/202511/SynGFN\|SynGFN：利用生成式基于流的分子发现方法跨化学空间学习]]
 - [[journal/2025/202511/ECloudGen\|ECloudGen：利用电子云作为潜在变量扩展基于结构的分子设计]]
+- [[journal/2025/202512/SciToolAgent\|SciToolAgent：一种由知识图谱驱动的多工具集成科学智能体]]
 
 ### Science Advances
 
