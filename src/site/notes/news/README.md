@@ -8,6 +8,11 @@
 ### Nat. Methods
 
 - [[news/2025/Foldseek-Multimer\|Foldseek-Multimer：实现快速而灵敏的蛋白质复合物比对]]
+- [[news/2025/Scikit-bio\|Scikit-bio:用于生物组学数据分析的基础性Python库]]
+
+### Nature Chemical Biology
+
+- [[news/2025/Harness_ProteinDesign\|利用人工智能进展推动蛋白质设计]]
 
 ### Nat. Mach. Intell.
 

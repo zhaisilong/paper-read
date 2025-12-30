@@ -18,6 +18,10 @@
 - [[journal/2025/202510/aging-cgas\|裸鼹鼠中由cGAS介导的机制可增强DNA修复并延缓衰老]]
 - [[journal/2025/202512/DrugReflector\|基于转录组学的主动学习框架用于识别疾病表型的调节因子]]
 
+### Nature Methods
+
+- [[journal/2025/202512/OpenStructure\|OpenStructure: 用于比较大分子复合物的全自动基准评测工具套件]]
+
 ### Nature Machine Intelligence
 
 - [[journal/2025/202508/TopoDiff\|TopoDiff: 基于全局几何感知潜在编码的扩散式蛋白质主链生成改进方法]]
@@ -32,6 +36,8 @@
 
 - [[journal/2025/202509/so3lr\|SO3LR: 利用预训练神经网络与通用成对力场的分子模拟]]
 - [[journal/2025/202510/jacs-kras-cp\|口服可利用肽类靶向细胞内蛋白的开发：从初始化合物到临床级KRAS抑制剂]]
+- [[journal/2025/202512/CycloBot\|CycloBot：基于二氨基烟酸支架的高纯度头尾环肽自动化快速合成]]
+- [[journal/2025/202512/Xrd2Mof\|Xrd2Mof: 基于生成式人工智能解读金属-有机框架的X射线衍射图谱]]
 
 ### Nature Biomedical Engineering
 
