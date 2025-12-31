@@ -83,6 +83,7 @@
 - [[journal/2025/202509/pnas-cft-baker\|从头设计高效抑制梭菌家族毒素的分子]]
 - [[journal/2025/202511/placer\|PLACER: 建模蛋白–小分子构象集合]]
 - [[journal/2025/202512/SiteAF3\|SiteAF3: 基于AlphaFold3的条件扩散实现结合位点特异性精准折叠]]
+- [[journal/2025/202512/PackDock\|PackDock: 基于扩散模型的柔性蛋白-配体对接与侧链堆积]]
 
 ### Cell Biomaterials
 
