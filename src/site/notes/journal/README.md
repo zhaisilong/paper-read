@@ -3,6 +3,12 @@
 ---
 
 
+## 2026
+
+### Science
+
+- [[journal/2026/202601/sci_protein_oligomers\|小分子调控的蛋白质寡聚体的从头设计]]
+
 ## 2025
 
 ### Nature
@@ -94,6 +100,10 @@
 - [[journal/2025/202510/PROTAC-STAN\|PROTAC-STAN: 可解释的基于结构信息的深度三元注意力框架用于PROTAC降解预测]]
 - [[journal/2025/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
 - [[journal/2025/202510/geminimol\|GeminiMol: 构象空间表征提升了基于人工智能的配体驱动药物发现中的通用分子表示能力]]
+
+### ACS Catalysis
+
+- [[journal/2026/202601/ACS_Catalysis\|机器学习驱动的酶挖掘:机遇、挑战与未来展望]]
 
 ### Chemical Science
 
