@@ -91,6 +91,10 @@
 - [[journal/2025/202512/SiteAF3\|SiteAF3: 基于AlphaFold3的条件扩散实现结合位点特异性精准折叠]]
 - [[journal/2025/202512/PackDock\|PackDock: 基于扩散模型的柔性蛋白-配体对接与侧链堆积]]
 
+### Angew. Chem. Int. Ed.
+
+- [[journal/2026/202601/CrystalGAT\|CrystalGAT: 一种基于人工智能的柔性晶体材料智能设计计算平台]]
+
 ### Cell Biomaterials
 
 - [[journal/2025/202510/AMP-Diffusion\|AMP-Diffusion: 生成式潜在扩散语言建模驱动的抗感染合成肽]]
