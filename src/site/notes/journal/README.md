@@ -9,6 +9,10 @@
 
 - [[journal/2026/202601/sci_protein_oligomers\|小分子调控的蛋白质寡聚体的从头设计]]
 
+### Advanced Science
+
+- [[journal/2026/202601/Ouroboros\|Ouroboros：融合分子构象空间与药效团相似性的基础模型]]
+
 ## 2025
 
 ### Nature
@@ -70,6 +74,7 @@
 - [[journal/2025/202512/MMCLKin\|MMCLKin: 通过对比学习提升激酶抑制剂活性与选择性预测]]
 - [[journal/2025/202512/TAPB\|TAPB: 一种干预式去偏框架，用于缓解药物-靶点相互作用预测中的靶点先验偏差]]
 - [[journal/2025/202512/ChemEnzyRetroPlanner\|ChemEnzyRetroPlanner：用于自动化有机–酶催化混合合成规划的虚拟平台]]
+- [[journal/2026/202601/GPCRs-peptide-antibody\|基于结构的宏环肽设计用于生成针对G蛋白偶联受体的功能性抗体]]
 
 ### Nature Computational Science
 
@@ -104,6 +109,7 @@
 - [[journal/2025/202510/PROTAC-STAN\|PROTAC-STAN: 可解释的基于结构信息的深度三元注意力框架用于PROTAC降解预测]]
 - [[journal/2025/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
 - [[journal/2025/202510/geminimol\|GeminiMol: 构象空间表征提升了基于人工智能的配体驱动药物发现中的通用分子表示能力]]
+- [[journal/2026/202601/AllSites\|ALLSites：对所有药物分子形态蛋白结合位点的精确识别]]
 
 ### ACS Catalysis
 
