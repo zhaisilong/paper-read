@@ -176,6 +176,10 @@
 - [[journal/2025/202509/SO3_krates\|SO3_KRATES: 利用欧几里得Transformer实现快速稳定的机器学习力场]]
 - [[journal/2025/202509/openvs\|OpenVS: 人工智能加速的虚拟筛选平台用于药物发现]]
 
+### Science Advances
+
+- [[journal/2026/202601/ppi-net\|用于增强模式发现的蛋白质-蛋白质相互作用网络深度表示学习]]
+
 ### JACS Au
 
 - [[journal/2025/202512/protacs-cycpep\|基于结构的“首尾相连”大环PROTACs设计]]
