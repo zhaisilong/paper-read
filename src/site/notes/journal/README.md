@@ -215,6 +215,10 @@
 - [[journal/2025/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
 - [[journal/2025/202512/ViSNet\|ViSNet]]
 
+### Commun. Chem.
+
+- [[journal/2025/202509/pepbinder-design_cc\|基于逆折叠与结构预测的肽结合物设计]]
+
 ## 2022
 
 ### Nature Methods

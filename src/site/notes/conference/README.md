@@ -8,6 +8,7 @@
 ### ICLR
 
 - [[conference/2025/PepTune\|PepTune: 通过多目标引导的离散扩散实现治疗性肽段的从头设计]]
+- [[conference/2025/pdlm2\|DPLM-2: 多模态扩散蛋白语言模型]]
 
 ## 2024
 
