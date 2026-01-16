@@ -16,6 +16,10 @@
 
 - [[conference/2024/plinder\|PLINDER: 蛋白质配体相互作用数据和评估集]]
 
+### ICLR
+
+- [[conference/2024/proteinworkshop\|ProteinWorkshop: 评估蛋白质结构宇宙中的表示学习方法]]
+
 ## 2023
 
 ### NeurIPS 

@@ -15,7 +15,7 @@
 
 ## 公众号搭建教程
 
-- 自建图床
+- 自建图床 MINIO
 - [微信 Markdown 编辑器](https://md.openwrite.cn)
 
 ## 网站搭建教程
@@ -26,4 +26,4 @@
 
 - https://github.com/zhaisilong/paper-read
 - https://molastra.com
-- molastra@outlook.com
+- molastra@hotmail.com

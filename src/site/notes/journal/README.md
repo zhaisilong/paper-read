@@ -8,6 +8,11 @@
 ### Science
 
 - [[journal/2026/202601/sci_protein_oligomers\|小分子调控的蛋白质寡聚体的从头设计]]
+- [[journal/2026/202601/drugclip-sci\|DrugCLIP: 深度对比学习实现全基因组尺度的虚拟筛选]]
+
+### Nature Computational Science
+
+- [[journal/2026/202601/MAPLE-aging-ncs\|MAPLE: 一种基于成对学习的稳健计算框架,用于甲基化年龄与疾病风险预测]]
 
 ### Advanced Science
 
