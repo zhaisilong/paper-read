@@ -37,6 +37,10 @@
 
 - [[journal/2025/202512/OpenStructure\|OpenStructure: 用于比较大分子复合物的全自动基准评测工具套件]]
 
+### Nature Chemical Biology
+
+- [[journal/2026/202601/single-domain protein\|利用深度学习对三个不重叠的蛋白质表位进行精确的单域支架构建]]
+
 ### Nature Machine Intelligence
 
 - [[journal/2025/202508/TopoDiff\|TopoDiff: 基于全局几何感知潜在编码的扩散式蛋白质主链生成改进方法]]
