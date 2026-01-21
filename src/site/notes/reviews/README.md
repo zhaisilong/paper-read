@@ -5,9 +5,14 @@
 
 ## 2026
 
+### JACS
+
+- [[journal/2026/202601/jacs-opt_sm_prot\|jacs-opt_sm_prot]]
+
 ### J. Agric. Food Chem.
 
 - [[reviews/2026/jafc-review-enzyme\|基于蛋白质工程策略的酶学性质改造研究进展]]
+
 
 ## 2025
 
@@ -24,6 +29,10 @@
 
 - [[reviews/2025/ADC-pep-link\|抗体−药物偶联物中肽连接子的最新进展]]
 - [[reviews/2025/jmc-pdc\|肽–药物偶联物治疗效能增强的最新进展]]
+
+### European Journal of Medicinal Chemistry
+
+- [[reviews/2026/ejmc-rings\|药物化学中的环系统：药物发现过程中环结构流行度随时间变化的化学信息学分析]]
 
 ### Nat. Chem. Biol.
 
