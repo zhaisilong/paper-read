@@ -5,6 +5,10 @@
 
 ## 2026
 
+### Nature
+
+- [[journal/2026/202601/Emu3\|Emu3: 采用下一词预测的大规模多模态模型的多模态学习]]
+
 ### Science
 
 - [[journal/2026/202601/sci_protein_oligomers\|小分子调控的蛋白质寡聚体的从头设计]]
@@ -13,6 +17,10 @@
 ### Nature Computational Science
 
 - [[journal/2026/202601/MAPLE-aging-ncs\|MAPLE: 一种基于成对学习的稳健计算框架,用于甲基化年龄与疾病风险预测]]
+
+### JACS
+
+- [[journal/2026/202601/jacs-opt_sm_prot\|优化动态小分子结合蛋白的稳定性]]
 
 ### Advanced Science
 
@@ -40,6 +48,10 @@
 ### Nature Chemical Biology
 
 - [[journal/2026/202601/single-domain protein\|利用深度学习对三个不重叠的蛋白质表位进行精确的单域支架构建]]
+
+### Nature Computational Science
+
+- [[journal/2026/202601/Graphinity\|Graphinity: 研究用于实现可泛化抗体–抗原ΔΔG预测所需的数据规模与多样性]]
 
 ### Nature Machine Intelligence
 
@@ -73,6 +85,7 @@
 ### ACS Cent. Sci.
 
 - [[journal/2025/202512/SynLlama\|SynLlama: 用大型语言模型生成可合成分子及其类似物]]
+- [[journal/2026/202601/acscs_prompt_llm\|利用大型语言模型中的提示工程加速化学研究]]
 
 ### Nature Communications
 
@@ -84,6 +97,7 @@
 - [[journal/2025/202512/TAPB\|TAPB: 一种干预式去偏框架，用于缓解药物-靶点相互作用预测中的靶点先验偏差]]
 - [[journal/2025/202512/ChemEnzyRetroPlanner\|ChemEnzyRetroPlanner：用于自动化有机–酶催化混合合成规划的虚拟平台]]
 - [[journal/2026/202601/GPCRs-peptide-antibody\|基于结构的宏环肽设计用于生成针对G蛋白偶联受体的功能性抗体]]
+- [[journal/2026/202601/nc-EviDTI\|EviDTI: 基于证据深度学习的药物-靶标相互作用预测]]
 
 ### Nature Computational Science
 
@@ -170,9 +184,17 @@
 
 - [[journal/2025/202509/TNFR1-baker\|靶点条件扩散生成高效TNFR超家族拮抗剂与激动剂]]
 
+### Cell
+
+- [[journal/2026/202601/AMPSphere\|AMPSphere：基于机器学习的全球微生物组抗菌肽发现]]
+
 ### Nature Methods
 
 - [[journal/2025/202511/cellrank2\|CellRank 2: 多视图单细胞数据中的统一细胞命运映射方法]]
+
+### Nature Medicine
+
+- [[journal/2026/202601/NM-TxGNN\|TxGNN: 面向临床医生的药物再利用基础模型]]
 
 ### Nature Machine Intelligence
 

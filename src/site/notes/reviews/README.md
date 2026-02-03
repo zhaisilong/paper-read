@@ -5,10 +5,6 @@
 
 ## 2026
 
-### JACS
-
-- [[journal/2026/202601/jacs-opt_sm_prot\|jacs-opt_sm_prot]]
-
 ### J. Agric. Food Chem.
 
 - [[reviews/2026/jafc-review-enzyme\|基于蛋白质工程策略的酶学性质改造研究进展]]
