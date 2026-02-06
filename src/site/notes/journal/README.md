@@ -13,6 +13,7 @@
 
 - [[journal/2026/202601/sci_protein_oligomers\|小分子调控的蛋白质寡聚体的从头设计]]
 - [[journal/2026/202601/drugclip-sci\|DrugCLIP: 深度对比学习实现全基因组尺度的虚拟筛选]]
+- [[journal/2026/202602/foldmason\|FoldMason: 大规模蛋白质结构多重比对]]
 
 ### Nature Computational Science
 
@@ -25,6 +26,10 @@
 ### Advanced Science
 
 - [[journal/2026/202601/Ouroboros\|Ouroboros：融合分子构象空间与药效团相似性的基础模型]]
+
+### Journal of Medicinal Chemistry
+
+- [[journal/2026/202602/PLMCA\|PLMCA：一种用于口袋识别与结合亲和力预测的通用多模态蛋白–配体交叉注意力框架]]
 
 ## 2025
 
