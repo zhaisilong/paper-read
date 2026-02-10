@@ -8,6 +8,7 @@
 ### Nature
 
 - [[journal/2026/202601/Emu3\|Emu3: 采用下一词预测的大规模多模态模型的多模态学习]]
+- [[journal/2026/202602/OpenScholar\|OpenScholar：用检索增强语言模型综述科学文献]]
 
 ### Science
 
@@ -196,6 +197,7 @@
 ### Nature Methods
 
 - [[journal/2025/202511/cellrank2\|CellRank 2: 多视图单细胞数据中的统一细胞命运映射方法]]
+- [[journal/2026/202602/deepmsa2\|DeepMSA2：基于大规模宏基因组数据提升深度学习蛋白单体及复合物结构预测性能]]
 
 ### Nature Medicine
 

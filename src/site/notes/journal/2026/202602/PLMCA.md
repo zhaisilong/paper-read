@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/2026/202602/PLMCA/"}
 ---
 
+
 # JMC 2026 | PLMCA：一种用于口袋识别与结合亲和力预测的通用多模态蛋白–配体交叉注意力框架
 
 ![](https://cdn.molastra.com/weixin/2026/02/03/55b5df79d863c550514c1dc925f6ea1a.jpg)
