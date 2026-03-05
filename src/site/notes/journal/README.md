@@ -16,13 +16,26 @@
 - [[journal/2026/202601/drugclip-sci\|DrugCLIP: 深度对比学习实现全基因组尺度的虚拟筛选]]
 - [[journal/2026/202602/foldmason\|FoldMason: 大规模蛋白质结构多重比对]]
 
+### Cell
+
+- [[journal/2026/202602/PocketXMol\|PocketXMol: 基于原子相互作用实现三维分子生成的统一建模]]
+
 ### Nature Computational Science
 
 - [[journal/2026/202601/MAPLE-aging-ncs\|MAPLE: 一种基于成对学习的稳健计算框架,用于甲基化年龄与疾病风险预测]]
 
+### Nature Biotechnology
+
+- [[journal/2026/202602/SMRTnet\|SMRTnet: 在缺乏RNA三级结构信息的情况下预测小分子–RNA相互作用]]
+
 ### JACS
 
 - [[journal/2026/202601/jacs-opt_sm_prot\|优化动态小分子结合蛋白的稳定性]]
+- [[journal/2026/202602/MetalloDock\|MetalloDock：通过物理感知深度学习解析金属蛋白-配体相互作用以推动金属蛋白靶向药物发现]]
+
+### Nature Communications
+
+- [[journal/2026/202602/PocketVec\|PocketVec: 通过结合位点描述符对人类可成药口袋进行全面检测与表征]]
 
 ### Advanced Science
 
@@ -41,6 +54,7 @@
 - [[journal/2025/202508/bindcraft\|BindCraft: 一次性设计功能性蛋白质结合子]]
 - [[journal/2025/202512/metallohydrolases-baker\|金属水解酶的计算设计]]
 - [[journal/2025/202512/μ-opioid\|结构快照解析μ-阿片受体中核苷酸释放的构象机制]]
+- [[journal/2026/202602/optical-generative-models\|光学生成模型]]
 
 ### Science
 
@@ -247,6 +261,10 @@
 ### Nature Machine Intelligence
 
 - [[journal/2025/202511/nmi-smile-denovo-cl-rl\|基于SMILES的分子从头生成：课程式训练与深度强化学习的能力边界探索]]
+
+### ACS Cent. Sci.
+
+- [[journal/2026/202602/good-ppi-stabilizer\|什么样的因素造就了优良的蛋白质−蛋白质相互作用稳定剂：双重结合机制的分析与应用]]
 
 ### Nature Communications
 

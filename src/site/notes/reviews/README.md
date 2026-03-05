@@ -9,7 +9,6 @@
 
 - [[reviews/2026/jafc-review-enzyme\|基于蛋白质工程策略的酶学性质改造研究进展]]
 
-
 ## 2025
 
 ### Nat. Rev. Chem.
@@ -59,3 +58,15 @@
 ### BioDesign Research
 
 - [[reviews/2025/BDR-pep-target\|用于结合蛋白靶标的蛋白片段与肽的设计]]
+
+## 2021
+
+### Chemical Science
+
+- [[reviews/2026/pep-based-inhibitors-ppi-cs\|蛋白质−蛋白质相互作用肽类抑制剂：引入构象约束后的生物物理、结构与细胞学影响]]
+
+## Others
+
+### Annual Review of Pharmacology and Toxicology
+
+- [[reviews/2026/drugs-allosteric-sites\|受体别构位点的药物]]
