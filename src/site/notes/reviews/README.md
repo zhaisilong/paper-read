@@ -9,7 +9,15 @@
 
 - [[reviews/2026/jafc-review-enzyme\|基于蛋白质工程策略的酶学性质改造研究进展]]
 
+### ACS Cent. Sci.
+
+- [[reviews/2026/from-prompt-to-drug-toward-pharmaceutical-superintelligence\|从Prompt到Drug：走向药物研发超级智能]]
+
 ## 2025
+
+### Chemical Reviews
+
+- [[reviews/2026/undruggable-cs\|难以成药靶标的计算机辅助药物发现]]
 
 ### Nat. Rev. Chem.
 
@@ -70,3 +78,7 @@
 ### Annual Review of Pharmacology and Toxicology
 
 - [[reviews/2026/drugs-allosteric-sites\|受体别构位点的药物]]
+
+### Nature Reviews Immunology
+
+- [[reviews/2026/mhc-nri\|对MHCⅠ类和MHCⅡ类抗原呈递的系统性理解]]

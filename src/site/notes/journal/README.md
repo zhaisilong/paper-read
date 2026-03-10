@@ -9,6 +9,7 @@
 
 - [[journal/2026/202601/Emu3\|Emu3: 采用下一词预测的大规模多模态模型的多模态学习]]
 - [[journal/2026/202602/OpenScholar\|OpenScholar：用检索增强语言模型综述科学文献]]
+- [[journal/2026/202603/nature_260225_aging\|多组学解析人类海马神经发生：从成年期到衰老，再到阿尔茨海默病]]
 
 ### Science
 
@@ -44,6 +45,10 @@
 ### Journal of Medicinal Chemistry
 
 - [[journal/2026/202602/PLMCA\|PLMCA：一种用于口袋识别与结合亲和力预测的通用多模态蛋白–配体交叉注意力框架]]
+
+### BioDesign Research
+
+- [[journal/2026/202603/e_coli_ROP_protein\|基于七肽插入法的ROP蛋白延伸与结构生物学研究]]
 
 ## 2025
 
@@ -118,6 +123,7 @@
 - [[journal/2025/202512/ChemEnzyRetroPlanner\|ChemEnzyRetroPlanner：用于自动化有机–酶催化混合合成规划的虚拟平台]]
 - [[journal/2026/202601/GPCRs-peptide-antibody\|基于结构的宏环肽设计用于生成针对G蛋白偶联受体的功能性抗体]]
 - [[journal/2026/202601/nc-EviDTI\|EviDTI: 基于证据深度学习的药物-靶标相互作用预测]]
+- [[journal/2026/202603/protein_universe\|protTDA: 蛋白质宇宙的拓扑性质]]
 
 ### Nature Computational Science
 
