@@ -50,6 +50,10 @@
 
 - [[journal/2026/202603/e_coli_ROP_protein\|基于七肽插入法的ROP蛋白延伸与结构生物学研究]]
 
+### Acta Pharmacologica Sinica
+
+- [[journal/2026/202603/VsNsbench\|VsNsbench: 评估AlphaFold3-embed诱导契合机制以增强虚拟筛选能力]]
+
 ## 2025
 
 ### Nature
