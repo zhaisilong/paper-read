@@ -54,6 +54,10 @@
 
 - [[journal/2026/202603/VsNsbench\|VsNsbench: 评估AlphaFold3-embed诱导契合机制以增强虚拟筛选能力]]
 
+### ACS Catalysis
+
+- [[journal/2026/202603/enzyme_evo_acs_catal\|计算机辅助定向进化实现了立体选择性羰基还原酶活性、热稳定性与选择性的协同优化]]
+
 ## 2025
 
 ### Nature
@@ -115,6 +119,10 @@
 
 - [[journal/2025/202512/SynLlama\|SynLlama: 用大型语言模型生成可合成分子及其类似物]]
 - [[journal/2026/202601/acscs_prompt_llm\|利用大型语言模型中的提示工程加速化学研究]]
+
+### Cell Chem. Biol.
+
+- [[journal/2026/202603/MSanalyst_ccb\|MSanalyst_ccb]]
 
 ### Nature Communications
 
