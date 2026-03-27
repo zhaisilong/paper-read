@@ -28,6 +28,10 @@
 - [[reviews/2025/acc-askcos\|ASKCOS：开源的数据驱动合成规划]]
 - [[reviews/2025/amp-accounts\|人工智能驱动的抗菌肽发现：挖掘与生成]]
 
+### Chemical Science
+
+- [[reviews/2026/ml_imbalance_chem\|针对化学领域中数据不平衡问题的机器学习方法综述]]
+
 ### J. Med. Chem.
 
 - [[reviews/2025/ADC-pep-link\|抗体−药物偶联物中肽连接子的最新进展]]

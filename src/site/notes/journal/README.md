@@ -34,6 +34,18 @@
 - [[journal/2026/202601/jacs-opt_sm_prot\|优化动态小分子结合蛋白的稳定性]]
 - [[journal/2026/202602/MetalloDock\|MetalloDock：通过物理感知深度学习解析金属蛋白-配体相互作用以推动金属蛋白靶向药物发现]]
 
+### Angew. Chem. Int. Ed.
+
+- [[journal/2026/202603/MMST\|MMST: 基于灵活多光谱人工智能模型的结构解析方法进展]]
+
+### Nature Chemistry
+
+- [[journal/2026/202603/aa_composition_peptide_nc\|氨基酸组成在肽合成过程中驱动聚集现象]]
+
+### Nature Machine Intelligence
+
+- [[journal/2026/202603/ann_brains\|用于对神经网络与生物大脑进行双向比较的反向预测性方法]]
+
 ### Nature Communications
 
 - [[journal/2026/202602/PocketVec\|PocketVec: 通过结合位点描述符对人类可成药口袋进行全面检测与表征]]
@@ -122,7 +134,7 @@
 
 ### Cell Chem. Biol.
 
-- [[journal/2026/202603/MSanalyst_ccb\|MSanalyst_ccb]]
+- [[journal/2026/202603/MSanalyst_ccb\|MSanalyst: 通过高度定制的分子网络平台实现具有双重解毒作用的芳香族糖苷的靶向发现]]
 
 ### Nature Communications
 
@@ -287,7 +299,8 @@
 ### Nature Communications
 
 - [[journal/2025/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
-- [[journal/2025/202512/ViSNet\|ViSNet]]
+- [[journal/2025/202512/ViSNet\|VisNet: 基于等变向量–标量交互消息传递的分子几何表示增强方法]]
+- [[journal/2026/202603/perfluoroaryl_macrocycles_albumin\|通过遗传编码方法发现可与白蛋白结合并在体内表现出延长循环时间的全氟芳基大环分子]]
 
 ### Commun. Chem.
 
@@ -308,6 +321,12 @@
 ### Journal of Medicinal Chemistry
 
 - [[journal/2025/202511/rtmscore\|RTMScore: 基于残基–原子距离似然势能与图 Transformer 的蛋白质–配体结合姿势预测与虚拟筛选的增强方法]]
+
+## 2020
+
+### Nature Communications
+
+- [[journal/2026/202603/dip_dpr\|DIP/Dpr相互作用以及蛋白质家族中特异性的进化设计]]
 
 ## 2018
 
