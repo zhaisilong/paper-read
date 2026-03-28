@@ -13,6 +13,10 @@
 
 - [[reviews/2026/from-prompt-to-drug-toward-pharmaceutical-superintelligence\|从Prompt到Drug：走向药物研发超级智能]]
 
+### Chem. Commun.
+
+- [[reviews/2026/pep_dock_review_cc\|肽–蛋白质对接：从基于物理的模型到生成式智能]]
+
 ## 2025
 
 ### Chemical Reviews

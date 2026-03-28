@@ -46,9 +46,14 @@
 
 - [[journal/2026/202603/ann_brains\|用于对神经网络与生物大脑进行双向比较的反向预测性方法]]
 
+### ACS Cent. Sci.
+
+- [[journal/2026/202603/llmb_battery\|LLMB：基于大语言模型的锂金属电池研究AI智能体]]
+
 ### Nature Communications
 
 - [[journal/2026/202602/PocketVec\|PocketVec: 通过结合位点描述符对人类可成药口袋进行全面检测与表征]]
+- [[journal/2026/202603/AQuaRef\|AQuaRef]]
 
 ### Advanced Science
 
