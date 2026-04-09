@@ -3,6 +3,16 @@
 ---
 
 
+## 2026
+
+### Nature
+
+- [[reviews/2026/drug-delivery-review-nature\|drug-delivery-review-nature]]
+
+### Nat. Methods
+
+- [[news/2026/lazysilde\|LazySlide：可访问且可互操作的全视野切片图像分析]]
+
 ## 2025
 
 ### Nat. Methods
@@ -13,6 +23,10 @@
 ### Nature Chemical Biology
 
 - [[news/2025/Harness_ProteinDesign\|利用人工智能进展推动蛋白质设计]]
+
+### Nature Protocol
+
+- [[news/2026/US-align\|用于快速且精确比较蛋白质和核酸结构的US-align图形界面与命令行协议]]
 
 ### Nat. Mach. Intell.
 

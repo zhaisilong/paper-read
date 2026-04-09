@@ -25,6 +25,10 @@
 
 - [[journal/2026/202601/MAPLE-aging-ncs\|MAPLE: 一种基于成对学习的稳健计算框架,用于甲基化年龄与疾病风险预测]]
 
+### Nat. Chem. Biol. 
+
+- [[journal/2026/202604/ncb_piezo2\|两步式发条样机制开启 PIEZO2 的蛋白-脂质复合孔道]]
+
 ### Nature Biotechnology
 
 - [[journal/2026/202602/SMRTnet\|SMRTnet: 在缺乏RNA三级结构信息的情况下预测小分子–RNA相互作用]]
@@ -33,6 +37,7 @@
 
 - [[journal/2026/202601/jacs-opt_sm_prot\|优化动态小分子结合蛋白的稳定性]]
 - [[journal/2026/202602/MetalloDock\|MetalloDock：通过物理感知深度学习解析金属蛋白-配体相互作用以推动金属蛋白靶向药物发现]]
+- [[journal/2026/202603/ubiquitin-fold-mpnn-jacs\|介观结构化水增强了ProteinMPNN设计的泛素折叠蛋白的稳定性]]
 
 ### Angew. Chem. Int. Ed.
 
@@ -45,6 +50,8 @@
 ### Nature Machine Intelligence
 
 - [[journal/2026/202603/ann_brains\|用于对神经网络与生物大脑进行双向比较的反向预测性方法]]
+- [[journal/2026/202604/Saturn\|Saturn: 通过记忆机制调控实现高效样本利用的生成式分子设计]]
+- [[journal/2026/202604/llm_materials_concepts\|利用大语言模型与概念图预测材料科学中的新研究方向]]
 
 ### ACS Cent. Sci.
 
@@ -53,7 +60,7 @@
 ### Nature Communications
 
 - [[journal/2026/202602/PocketVec\|PocketVec: 通过结合位点描述符对人类可成药口袋进行全面检测与表征]]
-- [[journal/2026/202603/AQuaRef\|AQuaRef]]
+- [[journal/2026/202603/AQuaRef\|AQuaRef: 利用机器学习加速蛋白质结构的量子精修]]
 
 ### Advanced Science
 
@@ -75,6 +82,10 @@
 
 - [[journal/2026/202603/enzyme_evo_acs_catal\|计算机辅助定向进化实现了立体选择性羰基还原酶活性、热稳定性与选择性的协同优化]]
 
+### Others
+
+- [[journal/2026/202604/PX2\|Protenix-v2: 拓展结构预测与生物分子设计边界]]
+
 ## 2025
 
 ### Nature
@@ -94,6 +105,7 @@
 ### Nature Methods
 
 - [[journal/2025/202512/OpenStructure\|OpenStructure: 用于比较大分子复合物的全自动基准评测工具套件]]
+- [[journal/2026/202604/METL\|METL：基于生物物理的蛋白质语言模型用于蛋白质工程]]
 
 ### Nature Chemical Biology
 
