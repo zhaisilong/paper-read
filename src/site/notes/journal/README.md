@@ -62,6 +62,7 @@
 
 - [[journal/2026/202602/PocketVec\|PocketVec: 通过结合位点描述符对人类可成药口袋进行全面检测与表征]]
 - [[journal/2026/202603/AQuaRef\|AQuaRef: 利用机器学习加速蛋白质结构的量子精修]]
+- [[journal/2026/202604/EPMolGen\|EPMolGen: 深度学习辅助发现一种高效且具有细胞活性的RNA N6-甲基腺苷识别蛋白YTHDC2抑制剂]]
 
 ### Advanced Science
 

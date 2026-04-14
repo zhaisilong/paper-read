@@ -5,6 +5,10 @@
 
 ## 2026
 
+### Science
+
+- [[reviews/2026/protein-engineering-sci\|人工智能如何重塑蛋白质工程]]
+
 ### J. Agric. Food Chem.
 
 - [[reviews/2026/jafc-review-enzyme\|基于蛋白质工程策略的酶学性质改造研究进展]]
