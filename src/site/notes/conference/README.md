@@ -9,6 +9,14 @@
 
 - [[conference/2026/IsoDDE\|IsoDDE：对新型生物分子相互作用的高精度预测]]
 
+### arXiv
+
+- [[conference/2026/PIEVO\|PIEVO: 通过不确定性最小化实现可演化的科学发现原则]]
+
+### ACL
+
+- [[conference/2026/BiasInheritance\|理解并缓解大模型数据增强中的偏见继承问题]]
+
 ## 2025
 
 ### ICLR

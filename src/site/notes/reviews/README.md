@@ -21,6 +21,24 @@
 
 - [[reviews/2026/pep_dock_review_cc\|肽–蛋白质对接：从基于物理的模型到生成式智能]]
 
+### The Innovation Drug Discovery
+
+- [[reviews/2026/AI_Peptide_Design\|计算驱动范式在靶向多肽药物设计中的演进：从预测建模到生成式人工智能及临床转化]]
+
+### Advanced Materials
+
+- [[reviews/2026/materials informatics\|材料信息学：AI 时代从萌芽到自主发现]]
+
+### Biochemistry
+
+- [[journal/2026/202604/AI-Designed Peptides\|AI设计肽在生物化学中的工具化应用]]
+
+### Chemical Reviews
+
+- [[reviews/2026/amp_chemical_reviews_A\|膜活性抗菌多肽的结构、相互作用与组装 (上)]]
+	- [[reviews/2026/amp_chemical_reviews_B\|amp_chemical_reviews_B]]
+	- [[reviews/2026/amp_chemical_reviews_C\|amp_chemical_reviews_C]]
+
 ## 2025
 
 ### Chemical Reviews

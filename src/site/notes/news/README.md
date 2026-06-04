@@ -7,7 +7,7 @@
 
 ### Nature
 
-- [[reviews/2026/drug-delivery-review-nature\|drug-delivery-review-nature]]
+- [[reviews/2026/drug-delivery-review-nature\|迈向智能化与微型化的药物递送装置]]
 
 ### Nat. Methods
 

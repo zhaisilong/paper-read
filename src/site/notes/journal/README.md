@@ -11,6 +11,10 @@
 - [[journal/2026/202602/OpenScholar\|OpenScholar：用检索增强语言模型综述科学文献]]
 - [[journal/2026/202603/nature_260225_aging\|多组学解析人类海马神经发生：从成年期到衰老，再到阿尔茨海默病]]
 - [[journal/2026/202604/ADele\|ADeLe: 通用尺度赋予人工智能评估以解释性与预测能力]]
+- [[journal/2026/202604/nature_collective_intelligence_chemical_synthesis\|MOSAIC: 人工智能辅助化学合成的集体智能]]
+- [[journal/2026/202604/subliminal learning\|语言模型通过数据中的隐藏信号传递行为特征]]
+- [[journal/2026/202605/warm_accuracy_tradeoff\|训练语言模型以“温暖”为目标可能降低准确性并增加谄媚行为]]
+- [[journal/2026/202606/RFdiffusion_ProteinCage\|从头设计准对称双组分蛋白质笼]]
 
 ### Science
 
@@ -21,6 +25,10 @@
 ### Cell
 
 - [[journal/2026/202602/PocketXMol\|PocketXMol: 基于原子相互作用实现三维分子生成的统一建模]]
+
+### Nature Structural & Molecular Biology
+
+- [[journal/2026/202605/Runs N Poses\|Runs N’ Poses: 蛋白-配体共折叠方法的泛化能力评估]]
 
 ### Nature Computational Science
 
@@ -53,6 +61,14 @@
 - [[journal/2026/202603/ann_brains\|用于对神经网络与生物大脑进行双向比较的反向预测性方法]]
 - [[journal/2026/202604/Saturn\|Saturn: 通过记忆机制调控实现高效样本利用的生成式分子设计]]
 - [[journal/2026/202604/llm_materials_concepts\|利用大语言模型与概念图预测材料科学中的新研究方向]]
+- [[journal/2026/202605/PanPep\|PanPep系统：基于元学习的抗原特异性T细胞受体识别预测]]
+- [[journal/2026/202605/trRosettaRNA2\|trRosettaRNA2: 基于预训练二级结构模型与结构感知注意力的 RNA 三维结构与构象预测]]
+- [[journal/2026/202606/CoCoGraph\|CoCoGraph: 一种用于生成逼真合成分子的协同约束图扩散模型]]
+
+### Science Advances
+
+- [[journal/2026/202605/SeFMol\|SeFMol: 基于强化学习的半柔性分子扩散导向模型用于结构药物设计]]
+- [[journal/2026/202606/CryptoBank\|CryptoBank: 用于蛋白质隐蔽位点识别与预测的资源库]]
 
 ### ACS Cent. Sci.
 
@@ -63,10 +79,16 @@
 - [[journal/2026/202602/PocketVec\|PocketVec: 通过结合位点描述符对人类可成药口袋进行全面检测与表征]]
 - [[journal/2026/202603/AQuaRef\|AQuaRef: 利用机器学习加速蛋白质结构的量子精修]]
 - [[journal/2026/202604/EPMolGen\|EPMolGen: 深度学习辅助发现一种高效且具有细胞活性的RNA N6-甲基腺苷识别蛋白YTHDC2抑制剂]]
+- [[journal/2026/202604/CLMs\|CLMs: 基于增量训练语言模型的药物分子结构优化方法]]
+- [[journal/2026/202605/AdaMBind\|一种用于药物靶点亲和力预测的元学习与任务自适应方法]]
+- [[journal/2026/202605/KIMMDY\|KIMMDY: 一种生物分子反应仿真平台]]
+- [[journal/2026/202606/ReactionSeek\|ReactionSeek: 让大模型从有机合成文献中挖掘反应知识]]
 
 ### Advanced Science
 
 - [[journal/2026/202601/Ouroboros\|Ouroboros：融合分子构象空间与药效团相似性的基础模型]]
+- [[journal/2026/202605/chromnet\|ChromNet：利用表观遗传信号的跨细胞类型三维染色质相互作用预测的多任务学习框架]]
+- [[journal/2026/202605/tarpass\|TarPass: 面向靶点的 de novo 分子生成探索——介于理性设计与“德州神枪手”策略之间]]
 
 ### Journal of Medicinal Chemistry
 
@@ -83,6 +105,14 @@
 ### ACS Catalysis
 
 - [[journal/2026/202603/enzyme_evo_acs_catal\|计算机辅助定向进化实现了立体选择性羰基还原酶活性、热稳定性与选择性的协同优化]]
+
+### Cell Reports Physical Science
+
+- [[journal/2026/202605/ChemMLLM\|ChemMLLM：面向化学任务的多模态大语言模型研发]]
+
+### iScience
+
+- [[journal/2026/202606/DeepDE\|DeepDE: 用迭代深度学习推动定向蛋白进化]]
 
 ### Others
 
@@ -167,6 +197,7 @@
 - [[journal/2026/202601/GPCRs-peptide-antibody\|基于结构的宏环肽设计用于生成针对G蛋白偶联受体的功能性抗体]]
 - [[journal/2026/202601/nc-EviDTI\|EviDTI: 基于证据深度学习的药物-靶标相互作用预测]]
 - [[journal/2026/202603/protein_universe\|protTDA: 蛋白质宇宙的拓扑性质]]
+- [[journal/2026/202605/FLAME\|FLAME: 用于加速荧光分子设计的模块化人工智能框架]]
 
 ### Nature Computational Science
 
@@ -196,12 +227,17 @@
 
 - [[journal/2025/202510/AMP-Diffusion\|AMP-Diffusion: 生成式潜在扩散语言建模驱动的抗感染合成肽]]
 
+### npj Comput. Mater.
+
+- [[journal/2026/202604/Materials-Foundation-Models\|基础模型驱动材料发现：现状与未来发展方向]]
+
 ### Advanced Science
 
 - [[journal/2025/202510/PROTAC-STAN\|PROTAC-STAN: 可解释的基于结构信息的深度三元注意力框架用于PROTAC降解预测]]
 - [[journal/2025/202509/AMPainter\|AMPainter: 基于深度强化学习的抗菌肽设计]]
 - [[journal/2025/202510/geminimol\|GeminiMol: 构象空间表征提升了基于人工智能的配体驱动药物发现中的通用分子表示能力]]
 - [[journal/2026/202601/AllSites\|ALLSites：对所有药物分子形态蛋白结合位点的精确识别]]
+- [[journal/2026/202605/chromnet\|ChromNet: 利用表观遗传信号的跨细胞类型三维染色质相互作用预测的多任务学习框架]]
 
 ### ACS Catalysis
 
@@ -315,6 +351,10 @@
 
 - [[journal/2026/202602/good-ppi-stabilizer\|什么样的因素造就了优良的蛋白质−蛋白质相互作用稳定剂：双重结合机制的分析与应用]]
 
+### JACS
+
+- [[journal/2026/202605/OralDrugabilityStrategiesforCyclicPeptides\|验证超越“5规则”的口服药物开发新方法：针对细胞内难靶点的环肽策略]]
+
 ### Nature Communications
 
 - [[journal/2025/202511/KPGT\|KPGT: 基于知识引导增强分子表示学习的预训练框架]]
@@ -324,6 +364,7 @@
 ### Commun. Chem.
 
 - [[journal/2025/202509/pepbinder-design_cc\|基于逆折叠与结构预测的肽结合物设计]]
+- [[journal/2026/202606/smiles2delta_delta_G\|从SMILES到ΔΔG的自动化相对结合自由能计算]]
 
 ## 2022
 
