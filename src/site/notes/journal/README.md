@@ -33,6 +33,7 @@
 ### Nature Computational Science
 
 - [[journal/2026/202601/MAPLE-aging-ncs\|MAPLE: 一种基于成对学习的稳健计算框架,用于甲基化年龄与疾病风险预测]]
+- [[journal/2026/202606/SmileyLlama\|SmileyLlama: 改造大型语言模型，实现定向化学空间探索]]
 
 ### Nat. Chem. Biol. 
 
@@ -83,6 +84,7 @@
 - [[journal/2026/202605/AdaMBind\|一种用于药物靶点亲和力预测的元学习与任务自适应方法]]
 - [[journal/2026/202605/KIMMDY\|KIMMDY: 一种生物分子反应仿真平台]]
 - [[journal/2026/202606/ReactionSeek\|ReactionSeek: 让大模型从有机合成文献中挖掘反应知识]]
+- [[journal/2026/202606/NMR-Solver\|NMR-Solver: 通过大规模谱图匹配与物理引导片段优化实现自动结构解析]]
 
 ### Advanced Science
 

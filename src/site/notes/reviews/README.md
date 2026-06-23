@@ -21,6 +21,10 @@
 
 - [[reviews/2026/pep_dock_review_cc\|肽–蛋白质对接：从基于物理的模型到生成式智能]]
 
+### Angewandte Chemie International Edition
+
+- [[reviews/2026/MLIP_LLM_Catalysis\|基于人工智能大模型加速催化新材料研发]]
+
 ### The Innovation Drug Discovery
 
 - [[reviews/2026/AI_Peptide_Design\|计算驱动范式在靶向多肽药物设计中的演进：从预测建模到生成式人工智能及临床转化]]
@@ -38,6 +42,10 @@
 - [[reviews/2026/amp_chemical_reviews_A\|膜活性抗菌多肽的结构、相互作用与组装 (上)]]
 	- [[reviews/2026/amp_chemical_reviews_B\|amp_chemical_reviews_B]]
 	- [[reviews/2026/amp_chemical_reviews_C\|amp_chemical_reviews_C]]
+
+### JMC
+
+- [[reviews/2026/MMPA\|药物发现中的匹配分子对分析方法与最新应用]]
 
 ## 2025
 

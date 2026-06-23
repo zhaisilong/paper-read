@@ -12,10 +12,15 @@
 ### arXiv
 
 - [[conference/2026/PIEVO\|PIEVO: 通过不确定性最小化实现可演化的科学发现原则]]
+- [[conference/2026/PTCG-Bench\|PTCG-Bench: 大语言模型智能体能否掌握宝可梦集换式卡牌游戏]]
 
 ### ACL
 
 - [[conference/2026/BiasInheritance\|理解并缓解大模型数据增强中的偏见继承问题]]
+
+### ICLR
+
+- [[conference/2026/KnowledgeSmith\|KnowledgeSmith: LLM知识更新的编辑与遗忘机制探索]]
 
 ## 2025
 
