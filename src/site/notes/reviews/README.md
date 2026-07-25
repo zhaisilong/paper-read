@@ -32,6 +32,7 @@
 ### Advanced Materials
 
 - [[reviews/2026/materials informatics\|材料信息学：AI 时代从萌芽到自主发现]]
+- [[reviews/2026/AI_DDI_DTI_Advanced_Science\|先进人工智能技术如何塑造药物—药物与药物—靶点相互作用建模]]
 
 ### Biochemistry
 

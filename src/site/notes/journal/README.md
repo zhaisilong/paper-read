@@ -49,6 +49,10 @@
 - [[journal/2026/202602/MetalloDock\|MetalloDock：通过物理感知深度学习解析金属蛋白-配体相互作用以推动金属蛋白靶向药物发现]]
 - [[journal/2026/202603/ubiquitin-fold-mpnn-jacs\|介观结构化水增强了ProteinMPNN设计的泛素折叠蛋白的稳定性]]
 
+### JACS Au
+
+- [[journal/2026/202607/SmarterData\|更智能的数据: 面向非均相催化机器学习势函数的数据生成范式重思]]
+
 ### Angew. Chem. Int. Ed.
 
 - [[journal/2026/202603/MMST\|MMST: 基于灵活多光谱人工智能模型的结构解析方法进展]]
@@ -65,6 +69,7 @@
 - [[journal/2026/202605/PanPep\|PanPep系统：基于元学习的抗原特异性T细胞受体识别预测]]
 - [[journal/2026/202605/trRosettaRNA2\|trRosettaRNA2: 基于预训练二级结构模型与结构感知注意力的 RNA 三维结构与构象预测]]
 - [[journal/2026/202606/CoCoGraph\|CoCoGraph: 一种用于生成逼真合成分子的协同约束图扩散模型]]
+- [[journal/2026/202607/ConfSeq\|ConfSeq: 以构象描述语言连接三维分子结构与人工智能]]
 
 ### Science Advances
 
@@ -85,6 +90,8 @@
 - [[journal/2026/202605/KIMMDY\|KIMMDY: 一种生物分子反应仿真平台]]
 - [[journal/2026/202606/ReactionSeek\|ReactionSeek: 让大模型从有机合成文献中挖掘反应知识]]
 - [[journal/2026/202606/NMR-Solver\|NMR-Solver: 通过大规模谱图匹配与物理引导片段优化实现自动结构解析]]
+- [[journal/2026/202607/LassoESM\|LassoESM: 提升套索肽性质预测的定制语言模型]]
+- [[journal/2026/202607/UAMs\|不确定性感知机器学习: 面向全球化学品非致癌人体毒性预测研究]]
 
 ### Advanced Science
 
@@ -130,6 +137,7 @@
 - [[journal/2025/202512/metallohydrolases-baker\|金属水解酶的计算设计]]
 - [[journal/2025/202512/μ-opioid\|结构快照解析μ-阿片受体中核苷酸释放的构象机制]]
 - [[journal/2026/202602/optical-generative-models\|光学生成模型]]
+- [[journal/2026/202607/CATNIP\|CATNIP: 连接化学与蛋白质序列空间，预测生物催化反应]]
 
 ### Science
 
@@ -165,6 +173,7 @@
 - [[journal/2025/202510/jacs-kras-cp\|口服可利用肽类靶向细胞内蛋白的开发：从初始化合物到临床级KRAS抑制剂]]
 - [[journal/2025/202512/CycloBot\|CycloBot：基于二氨基烟酸支架的高纯度头尾环肽自动化快速合成]]
 - [[journal/2025/202512/Xrd2Mof\|Xrd2Mof: 基于生成式人工智能解读金属-有机框架的X射线衍射图谱]]
+- [[journal/2026/202607/LLM-EO\|LLM-EO: 利用大语言模型的内在知识与推理能力实现功能性金属配合物的生成式设计]]
 
 ### Nature Biomedical Engineering
 
