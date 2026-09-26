@@ -106,6 +106,7 @@
 - [[journal/2026/202607/LassoESM\|LassoESM: 提升套索肽性质预测的定制语言模型]]
 - [[journal/2026/202607/UAMs\|不确定性感知机器学习: 面向全球化学品非致癌人体毒性预测研究]]
 - [[journal/2026/202609/PeptiVerse\|PeptiVerse：面向治疗性多肽性质预测的统一平台]]
+- [[journal/2026/202609/MHE\|HME：异质分子编码下的化学—语言共享空间探索]]
 
 ### Advanced Science
 
