@@ -15,12 +15,16 @@
 - [[journal/2026/202604/subliminal learning\|语言模型通过数据中的隐藏信号传递行为特征]]
 - [[journal/2026/202605/warm_accuracy_tradeoff\|训练语言模型以“温暖”为目标可能降低准确性并增加谄媚行为]]
 - [[journal/2026/202606/RFdiffusion_ProteinCage\|从头设计准对称双组分蛋白质笼]]
+- [[journal/2026/202608/ERA\|辅助科研人员编写专业级经验型软件的人工智能系统]]
+- [[journal/2026/202609/lig-opt-nature\|构建随机背景模型以理解配体优化]]
+- [[journal/2026/202609/ProteinTalks\|ProteinTalks: 一种基于扰动蛋白质组学的可操作虚拟细胞模型]]
 
 ### Science
 
 - [[journal/2026/202601/sci_protein_oligomers\|小分子调控的蛋白质寡聚体的从头设计]]
 - [[journal/2026/202601/drugclip-sci\|DrugCLIP: 深度对比学习实现全基因组尺度的虚拟筛选]]
 - [[journal/2026/202602/foldmason\|FoldMason: 大规模蛋白质结构多重比对]]
+- [[journal/2026/202609/RNA_Science\|基于深度学习的 RNA 假结从头设计]]
 
 ### Cell
 
@@ -42,12 +46,18 @@
 ### Nature Biotechnology
 
 - [[journal/2026/202602/SMRTnet\|SMRTnet: 在缺乏RNA三级结构信息的情况下预测小分子–RNA相互作用]]
+- [[journal/2026/202609/blind_bench_antibody_nbc\|Nat. Biotechnol.｜以实验亲和力和可开发性为基准的盲法前瞻性计算机抗体发现评测]]
+
+### Nature Chemistry
+
+- [[journal/2026/202607/AI_PL_COF_Nature_Chemistry\|AI辅助迭代实验–学习循环发现高荧光共价有机框架]]
 
 ### JACS
 
 - [[journal/2026/202601/jacs-opt_sm_prot\|优化动态小分子结合蛋白的稳定性]]
 - [[journal/2026/202602/MetalloDock\|MetalloDock：通过物理感知深度学习解析金属蛋白-配体相互作用以推动金属蛋白靶向药物发现]]
 - [[journal/2026/202603/ubiquitin-fold-mpnn-jacs\|介观结构化水增强了ProteinMPNN设计的泛素折叠蛋白的稳定性]]
+- [[journal/2026/202609/FragNet\|FragNet：一种具有四级可解释性的分子性质预测图神经网络]]
 
 ### JACS Au
 
@@ -70,11 +80,14 @@
 - [[journal/2026/202605/trRosettaRNA2\|trRosettaRNA2: 基于预训练二级结构模型与结构感知注意力的 RNA 三维结构与构象预测]]
 - [[journal/2026/202606/CoCoGraph\|CoCoGraph: 一种用于生成逼真合成分子的协同约束图扩散模型]]
 - [[journal/2026/202607/ConfSeq\|ConfSeq: 以构象描述语言连接三维分子结构与人工智能]]
+- [[journal/2026/202608/JMM\|JMM: 以“陌生度”拓展分子深度学习的化学空间边界]]
+- [[journal/2026/202609/VITAL\|VITAL：肽–蛋白相互作用的定量化与界面感知预测]]
 
 ### Science Advances
 
 - [[journal/2026/202605/SeFMol\|SeFMol: 基于强化学习的半柔性分子扩散导向模型用于结构药物设计]]
 - [[journal/2026/202606/CryptoBank\|CryptoBank: 用于蛋白质隐蔽位点识别与预测的资源库]]
+- [[journal/2026/202609/YuelDesign\|YuelDesign]]
 
 ### ACS Cent. Sci.
 
@@ -92,12 +105,14 @@
 - [[journal/2026/202606/NMR-Solver\|NMR-Solver: 通过大规模谱图匹配与物理引导片段优化实现自动结构解析]]
 - [[journal/2026/202607/LassoESM\|LassoESM: 提升套索肽性质预测的定制语言模型]]
 - [[journal/2026/202607/UAMs\|不确定性感知机器学习: 面向全球化学品非致癌人体毒性预测研究]]
+- [[journal/2026/202609/PeptiVerse\|PeptiVerse：面向治疗性多肽性质预测的统一平台]]
 
 ### Advanced Science
 
 - [[journal/2026/202601/Ouroboros\|Ouroboros：融合分子构象空间与药效团相似性的基础模型]]
 - [[journal/2026/202605/chromnet\|ChromNet：利用表观遗传信号的跨细胞类型三维染色质相互作用预测的多任务学习框架]]
 - [[journal/2026/202605/tarpass\|TarPass: 面向靶点的 de novo 分子生成探索——介于理性设计与“德州神枪手”策略之间]]
+- [[journal/2026/202609/SinCAA\|SinCAA：面向治疗性多肽建模的非天然氨基酸相似性增强表征学习]]
 
 ### Journal of Medicinal Chemistry
 
@@ -122,6 +137,10 @@
 ### iScience
 
 - [[journal/2026/202606/DeepDE\|DeepDE: 用迭代深度学习推动定向蛋白进化]]
+
+### Journal of Cheminformatics
+
+- [[journal/2026/202609/SemlaFlow_JC\|利用力场引导改进蛋白质-配体复合物生成]]
 
 ### Others
 
@@ -209,6 +228,9 @@
 - [[journal/2026/202601/nc-EviDTI\|EviDTI: 基于证据深度学习的药物-靶标相互作用预测]]
 - [[journal/2026/202603/protein_universe\|protTDA: 蛋白质宇宙的拓扑性质]]
 - [[journal/2026/202605/FLAME\|FLAME: 用于加速荧光分子设计的模块化人工智能框架]]
+- [[journal/2026/202608/OmniMol\|OmniMol: 从超图视角统一且可解释地学习不完美标注数据中的分子表示]]
+- [[journal/2026/202608/ML-guided DBTL\|机器学习引导的无细胞表达加速酶工程]]
+- [[journal/2026/202609/datasail\|DataSAIL：避免信息泄漏的数据划分]]
 
 ### Nature Computational Science
 
@@ -233,6 +255,10 @@
 ### Angew. Chem. Int. Ed.
 
 - [[journal/2026/202601/CrystalGAT\|CrystalGAT: 一种基于人工智能的柔性晶体材料智能设计计算平台]]
+
+### ACS Nano
+
+- [[journal/2026/202608/ML-Screened-Zn-Additives\|机器学习辅助筛选高供体数电解液添加剂，构建无枝晶水系锌离子电池]]
 
 ### Cell Biomaterials
 
@@ -281,6 +307,7 @@
 - [[journal/2025/202510/jmc-phage-cryoem\|利用噬菌体展示与冷冻电镜技术高通量鉴定并表征结合LptDE的双环肽]]
 - [[journal/2025/202511/cheminfo\|基于结构的三维小分子药物生成：我们到哪一步了？]]
 - [[journal/2025/202508/CYC_BUILDER\|CYC_BUILDER: 利用强化学习从头设计靶点特异性环肽结合剂]]
+- [[journal/2026/202609/insilico_admet\|计算机辅助 ADMET：从当前实践到新型预测工具]]
 
 ### JCIM
 
@@ -318,6 +345,7 @@
 - [[journal/2025/202508/ActFound\|ActFound: 利用成对元学习的生物活性基础模型]]
 - [[journal/2025/202509/pepflow\|PepFlow: 通过超网络调控扩散直接采样肽类能量景观的构象]]
 - [[journal/2025/202512/DiG\|DiG: 利用深度学习预测分子体系的平衡分布]]
+- [[journal/2026/202609/PSICHIC\|PSICHIC：用于从序列数据中学习蛋白质–配体相互作用指纹的物理化学图神经网络]]
 
 ### Nature Communications
 
@@ -331,6 +359,10 @@
 ### JACS Au
 
 - [[journal/2025/202512/protacs-cycpep\|基于结构的“首尾相连”大环PROTACs设计]]
+
+### JACS
+
+- [[journal/2026/202608/RE-EXPLORE\|强化学习提升化学反应性能]]
 
 ### JCIM
 
