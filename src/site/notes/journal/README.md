@@ -114,6 +114,10 @@
 - [[journal/2026/202605/tarpass\|TarPass: 面向靶点的 de novo 分子生成探索——介于理性设计与“德州神枪手”策略之间]]
 - [[journal/2026/202609/SinCAA\|SinCAA：面向治疗性多肽建模的非天然氨基酸相似性增强表征学习]]
 
+### Chemical Science
+
+- [[journal/2026/202609/DrugLLM\|DrugLLM：基于领域专用大语言模型的少样本分子性质优化]]
+
 ### Journal of Medicinal Chemistry
 
 - [[journal/2026/202602/PLMCA\|PLMCA：一种用于口袋识别与结合亲和力预测的通用多模态蛋白–配体交叉注意力框架]]
